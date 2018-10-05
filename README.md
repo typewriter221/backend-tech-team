@@ -7,3 +7,4 @@ Bellybean is a food ordering website in which customers can order food as well a
 
 
 #TODO:- Show price totals, a proper menu card, revamp UI, offers and discount features among other things
+     :- Chande menu layout
